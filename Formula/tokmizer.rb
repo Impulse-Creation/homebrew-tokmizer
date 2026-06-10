@@ -1,8 +1,8 @@
 class Tokmizer < Formula
   desc "Cuts the tokens your AI coding agent burns on command output"
   homepage "https://tokmizer.com"
-  url "https://registry.npmjs.org/@tokmizer/plugin/-/plugin-0.5.6.tgz"
-  sha256 "6e6cd699d3340b04fa21932fcae967c4309f30e9c1e8f4484de402553a55f3f2"
+  url "https://registry.npmjs.org/@tokmizer/plugin/-/plugin-0.5.7.tgz"
+  sha256 "7b9fd1feee69a90f533461d1cb94a8522988c2e0717aceb0614c2ebf363ad480"
   license :cannot_represent
 
   depends_on "node"
